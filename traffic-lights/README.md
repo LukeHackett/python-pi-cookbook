@@ -9,7 +9,7 @@ You will need:
 * 4x Jumper wires
 * 1x Breadboard
 
-** Note:** it is possible to use more jumper wires to substitute not having a breadboard.
+** Note: ** it is possible to use more jumper wires to substitute not having a breadboard.
 
 
 A example circuit diagram is shown below. I used GPIO pins 7, 8 and 24 however any GPIO pins can be used. If a different set of GPIO pins are to be used then the PIN values should be changed at the top of the file.
