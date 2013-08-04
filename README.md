@@ -1,6 +1,28 @@
 # Python Pi Cookbook
 
-This repository houses a number of Raspberry Pi Python applications that can be used for helping others to learn about the Rasberry Pi, or programming in Python.
+This repository houses a number of Raspberry Pi Python projects that can be used for helping others to learn about the Rasberry Pi, and/or programming in Python.
+
+This is an open source repository, and hence additional projects can be requested and/or added at any time.
+
+## Project Listing
+
+Projects have been classified based upon their difficulty rating. Projects for beginners will feature simpler circuits and software, where as advanced projects will utilise more complex circuits and software.
+
+
+### Beginners
+
+* [Raspberry Pi Memory Alarm](https://github.com/LukeHackett/python-pi-cookbook/tree/master/memory-alarm)
+* [UK Traffic Lights (Version 1)](https://github.com/LukeHackett/python-pi-cookbook/tree/master/traffic-lights)
+
+### Intermediate
+
+* [Buzz-in Game](https://github.com/LukeHackett/python-pi-cookbook/tree/master/buzz-in)
+* [Reactor Game](https://github.com/LukeHackett/python-pi-cookbook/tree/master/reactor)
+* [UK Traffic Lights (Version 2)](https://github.com/LukeHackett/python-pi-cookbook/tree/master/traffic-lights-2)
+
+### Advanced
+
+* TBA
 
 
 ## Additional Libraries
@@ -15,7 +37,7 @@ All code shared in this repository are Open Source under the [Apache 2.0 License
 
 ## Bug Reporting and Feature Requests
 
-If you find a bug in a Sample, or have an enhancement request, simply file an [Issue](https://github.com/LukeHackett/python-pi-cookbook/issues) for the Sample.
+If you find a bug in a sample, or have an enhancement request, simply file an [Issue](https://github.com/LukeHackett/python-pi-cookbook/issues) for the sample.
 
 
 ## Disclaimer
