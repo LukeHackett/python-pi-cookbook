@@ -18,6 +18,7 @@ Projects have been classified based upon their difficulty rating. Projects for b
 
 * [Buzz-in Game](https://github.com/LukeHackett/python-pi-cookbook/tree/master/buzz-in)
 * [Reactor Game](https://github.com/LukeHackett/python-pi-cookbook/tree/master/reactor)
+* [Temperature Sensor](https://github.com/LukeHackett/python-pi-cookbook/tree/master/temperature-sensor)
 * [UK Traffic Lights (Version 2)](https://github.com/LukeHackett/python-pi-cookbook/tree/master/traffic-lights-2)
 
 ### Advanced
